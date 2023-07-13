@@ -24,13 +24,13 @@ To run this project locally, please follow the steps below:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/flashcard-app.git
+   git clone https://github.com/KunJon-analytics/ng-flashcards.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd flashcard-app
+   cd ng-flashcards
    ```
 
 3. Install the dependencies:
